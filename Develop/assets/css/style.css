@@ -83,7 +83,7 @@ p {
     margin-left: 20px;
 }
 
-/**/
+/* sets benefits to right of content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,26 +95,26 @@ p {
     background-color: #2589bd;
 }
 
-/**/
+/* sets margin and color of benefits section*/
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/**/
+/* sets center align of headers in benefits section */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/**/
+/* sets properties of images in benefits */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/**/
+/* sets color, fonts and margins of content section */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,18 +124,18 @@ p {
     color: #ffffff;
 }
 
-/**/
+/* sets sizes of content images */
 .content img {
     max-height: 200px;
 }
 
-/**/
+/* sets margin and font size for headers in content */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/**/
+/* fonts and alignment of footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -143,7 +143,7 @@ p {
     text-align: center;
 }
 
-/**/
+/* size of footer header */
 .footer h2 {
     font-size: 20px;
 }
