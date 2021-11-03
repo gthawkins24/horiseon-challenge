@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/**/
+/* Sets size of header background and font types */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,18 +17,18 @@ body {
     color: #ffffff;
 }
 
-/**/
+/* Specifies 'Horiseon' company name is larger than other font in header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/**/
+/* Makes 'seo' portion of 'Horiseon' a light gray color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-/**/
+/* makes links in header float right, sets padding and fonts of links */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,29 +37,24 @@ body {
     font-size: 20px;
 }
 
-/**/
-.header div ul {
-    list-style-type: none;
-}
-
-/**/
+/* sets links to display horizontally and adds margin */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/**/
+/* makes links in header not underlined and look natural */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/**/
+/* sets font size of all paragraphs */
 p {
     font-size: 16px;
 }
 
-/**/
+/* inserts first large image and size */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,19 +64,19 @@ p {
     background-position: center;
 }
 
-/**/
+/* images set to left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/**/
+/* image set to right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/**/
+/* makes content portion formatted properly */
 .content {
     width: 75%;
     display: inline-block;
